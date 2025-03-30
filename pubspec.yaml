@@ -23,7 +23,7 @@ dependencies:
   http: ^1.2.1
   webview_flutter: ^4.7.0
   webview_flutter_android: ^3.16.0
-  webview_flutter_wkwebview: ^3.13.0
+  webview_flutter_wkwebview: ^3.17.0
   cupertino_icons: ^1.0.6
 
 dev_dependencies:
